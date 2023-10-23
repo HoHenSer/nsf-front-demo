@@ -1,5 +1,5 @@
 FROM nginx:latest
-COPY /dist/spa/. /usr/share/nginx/html
+COPY dist/spa/. /usr/share/nginx/html
 
 # docker build -t harbor.cloud.netease.com/qztest/nsf-front-demo:v1.8.0 .
 # docker push harbor.cloud.netease.com/qztest/nsf-front-demo:v1.8.0
