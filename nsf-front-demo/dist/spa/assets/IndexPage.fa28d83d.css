@@ -1,1 +1,0 @@
-.rotate_down{transition:transform .5s cubic-bezier(.68,-.55,.265,1.55);transform:rotate(360deg)}.rotate_up{transition:transform .5s cubic-bezier(.68,-.55,.265,1.55);transform:rotate(180deg)}
